@@ -12,7 +12,7 @@ This Project Analyze Palmoria HR Data to identify and Visualize key related issu
 The goal is to uncover patterns that may reflect bias and recommend datadriven HR strategies that palmoria management team may use to address the issue.
 
 ## Table Of Content :
-  - [Project Overview] (#-dataset-descrption)
+  - [Project Overview] (#dataset-descrption)
   - [Dataset Description] (#-project-overview)
   - [Objective] (#-objective)
   - [Eploratory Data Analysis] (#-exploratory data analysis)
