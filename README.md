@@ -77,7 +77,7 @@ The data is a  CSV and Excel file provided by Human Resourc department of Palmor
  - Design structured bonus guildlines tied to quantifiable performace metrics.
    
 ### Analysis
-
+[ result](https://neddy3-my.sharepoint.com/:u:/g/personal/189448_office365online_co/Eef9ntFw8y9BnOB_0TYEch8B44iLFPcVWLtsbQyds_IVQw?e=P4qDyj)
 
 
 
