@@ -44,6 +44,7 @@ The dataset includes Palmorial Group Employee Information such as;
 - Examine  if perfomance rating varies significantly by gender.
 - Identify discrepancies in bonus allocation.
 - Provide actionable recommendation to HR management team.
+  
 ## Exploratory Data Analysis.
 ### Gender Representation.
 - Distribution of male and fmale employees across.
