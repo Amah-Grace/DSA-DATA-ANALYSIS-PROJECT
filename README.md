@@ -70,16 +70,33 @@ The data is a  CSV and Excel file provided by Human Resourc department of Palmor
  - High performance women recieve smaller bonuses on average compared to their male counterparts.
  - Certain department show more equitable trend more than others ( manufacturing).
 
-## Conclusion And Recommendation
- - The organization should implement regular pay equity audits within the departments.
- - Ensure transparency in performance evaluation criteria.
- - Offer unbais awareness training to managers.
- - Design structured bonus guildlines tied to quantifiable performace metrics.
-   
-### Analysis
+### Analysis.
+This is where my result of the analysis is included.
 [ result](https://neddy3-my.sharepoint.com/:u:/g/personal/189448_office365online_co/Eef9ntFw8y9BnOB_0TYEch8B44iLFPcVWLtsbQyds_IVQw?e=P4qDyj)
 
 ![Screenshot (125)](https://github.com/user-attachments/assets/25deabf9-a600-4fca-b6f2-f7f4100c7f46)
 
 ![Screenshot (124)](https://github.com/user-attachments/assets/73a6b962-a0f4-4428-a9f9-9e995511c02d)
+
+## Findings
+- From my finding, despite similar job level and performace rating female employees earn lesser like 5-10 average compare to their male counterpart.
+- There is payment bias in gender. because the pay gap between male and female in the organization is very significant.
+- There is an unequal bonus disribution structure in the organisation.
+
+## Conclusion And Recommendation
+ - The organization should implement regular pay equity audits within the departments.
+ - Ensure transparency in performance evaluation criteria.
+ - Offer unbais awareness training to managers.
+ - Design structured bonus guildlines tied to quantifiable performace metrics.
+
+   [Contact](07064849526)
+
+   
+   [Email](gracenancy62@gmail.com)
+
+   
+   [Linkedin](https://www.linkedin.com/in/amah-grace-895652192/overlay/contact-info/#:~:text=Your%20Profile-,linkedin.com/in/amah%2Dgrace%2D895652192,-Email)
+   
+  
+
 
