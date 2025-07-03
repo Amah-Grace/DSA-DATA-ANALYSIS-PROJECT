@@ -81,5 +81,9 @@ The data is a  CSV and Excel file provided by Human Resourc department of Palmor
 
 
 
+[linkedin](https://www.linkedin.com/in/amah-grace-895652192?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBw7Mc0ocQJCdaFflNePFXw%3D%3D)
+
+
+
 
 
