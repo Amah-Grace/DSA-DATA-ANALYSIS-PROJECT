@@ -12,20 +12,19 @@ This Project Analyze Palmoria HR Data to identify and Visualize key related issu
 The goal is to uncover patterns that may reflect bias and recommend datadriven HR strategies that palmoria management team may use to address the issue.
 
 ## Table Of Content :
-  - [Project Overview] (#dataset-descrption)
-  - [Dataset Description] (#-project-overview)
-  - [Objective] (#-objective)
-  - [Eploratory Data Analysis] (#-exploratory data analysis)
-  - [Gender Representation] (#-gender repreentation)
-  - [Salary-Structure] (#-salary structure)
-  - [Perfomance Rating] (#-perfomance rating)
-  - [Bonus Allocation] (#-bonus allocatiion)
-  - [Tools & Technology] (#-tools & technology)
-  - [Key Insight] (#-key insight)
-  - [Visualization] (#-visualization)
-  - [Recommendation] (#-recommendation)
-  - [Conclusion] (#-conclusion)
-  - [Limitation] (#-limitation)
+  - Project Overview
+  - Dataset Description
+  - Objective
+  - Eploratory Data Analysis
+  - Gender Representation
+  - Salary-Structure
+  - Perfomance Rating
+  - Tools & Technology
+  - Key Insight
+  - Visualization
+  - Recommendation 
+
+    
 ## Datase Description
 The dataset includes Palmorial Group Employee Information such as;
 - Employee Names
@@ -46,6 +45,39 @@ The dataset includes Palmorial Group Employee Information such as;
 - Provide actionable recommendation to HR management team.
 ## Exploratory Data Analysis.
 ### Gender Representation.
-- Distribution of male and fmale employees across
+- Distribution of male and fmale employees across.
+### Salary Structure
+- Average salary by gender and department.
+- Salary across department and region.
+### Performance Rating 
+- Distribution of performance ating across gender.
+- Correlation betweeen performance rating and salary or bonus.
+### Bonus Allocation
+- Average bonus by gender, performance rating and department.
+- Identifying salary and gender disparities.
+
+
+## Data source 
+The data is a  CSV and Excel file provided by Human Resourc department of Palmoria Group , its comprises anonymized employee level. it is fitious its designed for analytical training process.
+     It closely mirrors a real- world HR  Structure to allow for realisti analysis of workplace trends, pay gap, bonus allocation, performancr rating and gender inequalities.
+## Tool And Technology Used 
+- Excel for data imput, cleaning and manipulation.
+- power Querry for data wranggling, cleaning and manipulaton.
+- Power BI for Data Analysis Visualisaton.
+## Key Insight
+ - Women are under represented in the Organization.
+ - There is gender pay gap in the organisation.
+ - High performance women recieve smaller bonuses on average compared to their male counterparts.
+ - Certain department show more equitable trend more than others ( manufacturing).
+
+## Conclusion And Recommendation
+ - The organization should implement regular pay equity audits within the departments.
+ - Ensure transparency in performance evaluation criteria.
+ - Offer unbais awareness training to managers.
+ - Design structured bonus guildlines tied to quantifiable performace metrics.
+
+
+
+
 
 
