@@ -75,11 +75,13 @@ The data is a  CSV and Excel file provided by Human Resourc department of Palmor
  - Ensure transparency in performance evaluation criteria.
  - Offer unbais awareness training to managers.
  - Design structured bonus guildlines tied to quantifiable performace metrics.
+   
+### Analysis
 
 
 
 
-[linkedin](https://www.linkedin.com/in/amah-grace-895652192?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBw7Mc0ocQJCdaFflNePFXw%3D%3D)
+
 
 
 
