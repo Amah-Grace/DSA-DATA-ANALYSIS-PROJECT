@@ -1,5 +1,7 @@
 # PALMORIA-HR-ANALYSIS-PROJECT
-This project Present a data driven HR analysis for Palmoria Group, aimed at uncovering pattern and potential, inequalities in gender disparities , compensation  performance rating,evaluation and bonus allocation.
+
+This project Present a data driven HR analysis for Palmoria Group, aimed at uncovering pattern and potential, inequalities in gender disparities , compensation  performance, rating,evaluation and bonus allocation.
+
     The goal is to provide clear,actionable insight to support palmorial mamagemet team to make a strategic HR decisions to address the issue.
 -------------------------------------------------------------------------------------------------------------------------------
 ## Project Overview
