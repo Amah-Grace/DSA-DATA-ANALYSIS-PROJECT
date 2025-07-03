@@ -63,7 +63,7 @@ The dataset includes Palmorial Group Employee Information such as;
 The data is a  CSV and Excel file provided by Human Resourc department of Palmoria Group , its comprises anonymized employee level. it is fitious its designed for analytical training process.
      It closely mirrors a real- world HR  Structure to allow for realisti analysis of workplace trends, pay gap, bonus allocation, performancr rating and gender inequalities.
 ## Tool And Technology Used 
-- Excel for data imput, cleaning and manipulation.
+- Excel for data imput, collection,cleaning and manipulation.
 - power Querry for data wranggling, cleaning and manipulaton.
 - Power BI for Data Analysis Visualisaton.
 ## Key Insight
