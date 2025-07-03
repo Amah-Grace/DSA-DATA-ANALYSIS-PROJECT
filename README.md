@@ -79,11 +79,7 @@ The data is a  CSV and Excel file provided by Human Resourc department of Palmor
 ### Analysis
 [ result](https://neddy3-my.sharepoint.com/:u:/g/personal/189448_office365online_co/Eef9ntFw8y9BnOB_0TYEch8B44iLFPcVWLtsbQyds_IVQw?e=P4qDyj)
 
+![Screenshot (125)](https://github.com/user-attachments/assets/25deabf9-a600-4fca-b6f2-f7f4100c7f46)
 
-
-
-
-
-
-
+![Screenshot (124)](https://github.com/user-attachments/assets/73a6b962-a0f4-4428-a9f9-9e995511c02d)
 
