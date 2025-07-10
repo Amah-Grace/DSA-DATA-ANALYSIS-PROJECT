@@ -8,7 +8,7 @@ This Project Analyze Palmoria HR Data to identify and Visualize key related issu
    - Performance rating
    - Bonus allocation
    - Gender Pay Gap.
-The goal is to uncover patterns that may reflect bias and recommend datadriven HR strategies that palmoria management team may use to address the issue.
+The goal is to uncover patterns that may reflect bias and recommend data driven HR strategies that palmoria management team may use to address the issue.
 
 ## Table Of Content :
   - Project Overview
@@ -24,7 +24,7 @@ The goal is to uncover patterns that may reflect bias and recommend datadriven H
   - Recommendation 
 
     
-## Datase Description
+## Dataset Description
 The dataset includes Palmorial Group Employee Information such as;
 - Employee Names
 - Gender
@@ -37,20 +37,20 @@ The dataset includes Palmorial Group Employee Information such as;
 
 ## Ojectives
  The palmoria group is evaluating it's internal review with a focus on gender equity ,compensation fairness and perfomance recognition. This project emplores the data to:
-- Analysis gender discrimination across department.
-- Acess salary equity between male and female  employees
+- Analyses gender discrimination across department.
+- Access salary equity between male and female  employees
 - Examine  if perfomance rating varies significantly by gender.
 - Identify discrepancies in bonus allocation.
 - Provide actionable recommendation to HR management team.
   
 ## Exploratory Data Analysis.
 ### Gender Representation.
-- Distribution of male and fmale employees across.
+- Distribution of male and female employees across.
 ### Salary Structure
 - Average salary by gender and department.
 - Salary across department and region.
 ### Performance Rating 
-- Distribution of performance ating across gender.
+- Distribution of performance rating across gender.
 - Correlation betweeen performance rating and salary or bonus.
 ### Bonus Allocation
 - Average bonus by gender, performance rating and department.
@@ -58,8 +58,8 @@ The dataset includes Palmorial Group Employee Information such as;
 
 
 ## Data source 
-The data is a  CSV and Excel file provided by Human Resourc department of Palmoria Group , its comprises anonymized employee level. it is fitious its designed for analytical training process.
-     It closely mirrors a real- world HR  Structure to allow for realisti analysis of workplace trends, pay gap, bonus allocation, performancr rating and gender inequalities.
+The data is a  CSV and Excel file provided by Human Resource department of Palmoria Group , its comprises anonymized employee level. it is fitious its designed for analytical training process.
+     It closely mirrors a real- world HR  Structure to allow for realistic analysis of workplace trends, pay gap, bonus allocation, performance rating and gender inequalities.
 ## Tool And Technology Used 
 - Excel for data imput, collection,cleaning and manipulation.
 - power Querry for data wranggling, cleaning and manipulaton.
@@ -67,11 +67,11 @@ The data is a  CSV and Excel file provided by Human Resourc department of Palmor
 ## Key Insight
  - Women are under represented in the Organization.
  - There is gender pay gap in the organisation.
- - High performance women recieve smaller bonuses on average compared to their male counterparts.
+ - High performance women recieve smaller bonuses on average, compared to their male counterparts.
  - Certain department show more equitable trend more than others ( manufacturing).
 
 ### Analysis.
-This is where my result of the analysis is included.
+This is wherethe result of my analysis is included.
 [ result](https://neddy3-my.sharepoint.com/:u:/g/personal/189448_office365online_co/Eef9ntFw8y9BnOB_0TYEch8B44iLFPcVWLtsbQyds_IVQw?e=P4qDyj)
 
 ![Screenshot (125)](https://github.com/user-attachments/assets/25deabf9-a600-4fca-b6f2-f7f4100c7f46)
